@@ -134,7 +134,7 @@ textarea {
 
    }
 #branding{
-   background-color: orange;
+   background-color: brown;
 
    }
 
@@ -150,10 +150,15 @@ textarea {
    background-color: black;
    width: 367px;
    float: right;
-   background-color: brown;
-
 
    }
+
+#sidebar h4{
+   background: black;
+   text-align: right;
+   color: white;
+
+  } 
 
 #footer{
    clear: both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px; font-size: 80%;
