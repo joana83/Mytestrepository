@@ -153,10 +153,14 @@ textarea {
 
    }
 
-#sidebar h6{
+#aside{
+   border: 1px black; 
+   float: right;
+   height: 200px;
    background-color: black;
-   text-align: left;
-   font-color: white;
+   font-size: 180%;
+   text-align: center;
+  
 
   } 
 
