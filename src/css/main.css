@@ -127,6 +127,12 @@ textarea {
     font-size: 180%
 
     }
+
+ h6{
+
+   font-size: 180%
+
+   }
 #branding{
    background-color: orange;
 
@@ -137,13 +143,15 @@ textarea {
    width: 898px;
    padding-left: 31px;
    padding-right: 31px;
-
+   overflow: hidden;
  }
 
 #sidebar{
    background-color: black;
    width: 367px;
    float: right;
+   background-color: brown;
+
 
    }
 
