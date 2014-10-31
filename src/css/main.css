@@ -149,14 +149,14 @@ textarea {
 #sidebar{
    background-color: black;
    width: 367px;
-   float: right;
+   float: left;
 
    }
 
-#sidebar h4{
-   background: black;
-   text-align: right;
-   color: white;
+#sidebar h6{
+   background-color: black;
+   text-align: left;
+   font-color: white;
 
   } 
 
