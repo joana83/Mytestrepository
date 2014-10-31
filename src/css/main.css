@@ -90,6 +90,7 @@ textarea {
    ========================================================================== */
 #wrapper {
   width: 960px;
+  background-color: brown;
   margin-left: auto;
   margin-right: auto;
   font-size: 20px;
@@ -143,7 +144,7 @@ textarea {
 #article_photo img {
   height: 338px;
   width: 338px;
-  float: right;
+  float: left;
   padding: 9px;
   margin: 10px;
 
