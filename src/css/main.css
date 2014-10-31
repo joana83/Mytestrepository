@@ -154,7 +154,9 @@ textarea {
    background-color: black;
    font-size: 180%;
    text-align: center;
-  
+   margin-top:20px;
+   border-top: 10px;
+   padding: 20px 2px
 
   } 
 
