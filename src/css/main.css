@@ -142,14 +142,15 @@ textarea {
 
 #sidebar{
    background-color: black;
-   width: 593px;
-   float: left;
+   width: 367px;
+   float: right;
 
    }
 
 #footer{
-   clear: both;
-   background-color: black;
+   clear: both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px; font-size: 80%;
+   background-color: brown;
+   text-align: center;
 
    }
 #article_heading {
