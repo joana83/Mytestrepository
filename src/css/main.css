@@ -144,21 +144,7 @@ textarea {
    padding-left: 31px;
    padding-right: 31px;
    overflow: hidden;
- }
-
-
-#aside{
-   border: 1px black; 
-   float: right;
-   height: 200px;
-   background-color: black;
-   font-size: 180%;
-   text-align: center;
-   margin-top:20px;
-   border-top: 10px;
-   padding: 20px 2px
-
-  } 
+ } 
 
 #footer{
    clear: both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px; font-size: 80%;
