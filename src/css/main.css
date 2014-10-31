@@ -146,12 +146,6 @@ textarea {
    overflow: hidden;
  }
 
-#sidebar{
-   background-color: black;
-   width: 367px;
-   float: right;
-
-   }
 
 #aside{
    border: 1px black; 
