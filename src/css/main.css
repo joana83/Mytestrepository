@@ -168,14 +168,19 @@ textarea {
 
  }
 
-#body{
+ p.first{
+   margin: 0px;
+   color: white;	
+}
+
+p.second{
 	color: white;
 	}
 
- p.first{
-   margin: 0px;
+p.third{
+	color: white;
 
-}
+	}
 
 #article_heading h1 {
    margin: 0px;
