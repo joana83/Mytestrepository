@@ -157,7 +157,7 @@ textarea {
 #article_heading {
    height: 86px;
    line-height: 86px;
-
+   color: orange;
   }
 
 #article_photo img {
@@ -185,7 +185,7 @@ p.third{
 
 #article_heading h1 {
    margin: 0px;
-
+   color: orange;
 }
 
 #logo {
@@ -198,7 +198,7 @@ p.third{
 #menu {
     height: 56px;
     line-height: 56px;
-    background-color: brown;
+    background-color: orange;
 }
 
 #menu ul, li {
