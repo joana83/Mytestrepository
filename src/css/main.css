@@ -90,7 +90,7 @@ textarea {
    ========================================================================== */
 #wrapper {
   width: 960px;
-  background-color: brown;
+  background-color: orange;
   margin-left: auto;
   margin-right: auto;
   font-size: 20px;
@@ -100,6 +100,7 @@ textarea {
  h1{
 
    font-size: 220%
+   color: orange;
 
   }
 
@@ -134,7 +135,7 @@ textarea {
 
    }
 #branding{
-   background-color: brown;
+   background-color:orange;
 
    }
 
@@ -149,7 +150,7 @@ textarea {
 
 #footer{
    clear: both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px; font-size: 80%;
-   background-color: brown;
+   background-color: orange;
    text-align: center;
 
    }
@@ -192,12 +193,7 @@ p.third{
    height: 86px;
 
 }
-  
-#menu {
-   height: 56px;
-   line-height: 56px;
 
-} 
 
 #menu {
     height: 56px;
