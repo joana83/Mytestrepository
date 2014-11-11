@@ -168,9 +168,13 @@ textarea {
 
  }
 
+#body{
+	color: white;
+	}
+
  p.first{
    margin: 0px;
-   color: white;
+
 }
 
 #article_heading h1 {
