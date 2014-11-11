@@ -138,12 +138,17 @@ textarea {
 
    }
 
+#body{
+	color: white;
+	}
+
 #content {
    background-color: black;
    width: 898px;
    padding-left: 31px;
    padding-right: 31px;
    overflow: hidden;
+ 
  } 
 
 #footer{
