@@ -101,7 +101,7 @@ textarea {
 
    font-size: 220%
    color: orange;
-
+   text-align: center;
   }
 
  h2{
@@ -158,6 +158,7 @@ textarea {
    height: 86px;
    line-height: 86px;
    color: orange;
+   text-align: center
   }
 
 #article_photo img {
@@ -186,6 +187,7 @@ p.third{
 #article_heading h1 {
    margin: 0px;
    color: orange;
+   text-align: center;
 }
 
 #logo {
