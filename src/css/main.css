@@ -178,6 +178,10 @@ textarea {
     height: auto;
 	}
 
+#body{
+	float: left;
+
+	}
 #article_photo img {
   height: 338px;
   width: 338px;
