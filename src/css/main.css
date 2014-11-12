@@ -148,12 +148,6 @@ textarea {
  
  } 
 
-#footer{
-   clear: both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px; font-size: 80%;
-   background-color: orange;
-   text-align: center;
-
-   }
 #article_heading {
    height: 86px;
    line-height: 86px;
@@ -238,7 +232,12 @@ p.third{
 
 
 
+#footer{
+   clear: both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px;   font-size: 80%;
+    background-color: orange;
+    text-align: center;
 
+	    }
 
 
 /*==========================================================================
