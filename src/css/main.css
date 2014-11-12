@@ -170,12 +170,11 @@ textarea {
 	}
 
 #nav {
-    line-height:30px;
-    background-color:orange;
-    height:300px;
+
+    background:orange;
     width:100px;
     float:right;
-    padding:5px; 
+    padding:10px; 
 	}
 
 #article_photo img {
