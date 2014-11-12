@@ -161,6 +161,15 @@ textarea {
    text-align: center;
   }
 
+#article_body{
+
+	float:left;
+	background: black;
+	padding:10px;
+	width: 480px;
+
+	}
+
 #nav {
     line-height:30px;
     background-color:orange;
