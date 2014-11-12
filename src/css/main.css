@@ -161,6 +161,15 @@ textarea {
    text-align: center;
   }
 
+#nav {
+    line-height:30px;
+    background-color:orange;
+    height:300px;
+    width:100px;
+    float:right;
+    padding:5px; 
+	}
+
 #article_photo img {
   height: 338px;
   width: 338px;
