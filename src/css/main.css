@@ -175,7 +175,7 @@ textarea {
     width:120px;
     float:right;
     padding:15px;
-    height: 960;
+    min-height: 960;
 	}
 
 #article_photo img {
