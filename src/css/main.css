@@ -229,17 +229,18 @@ p.third{
 
 #menu ul, li {
     margin: 0px;
-    color: orange;
    
-
 }
 
 #menu li {
    display: inline;
-   color: orange;
 
 }
 
+a:about{
+	color: orange;
+	text-decoration: none;
+	}
 
 
 
