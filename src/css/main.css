@@ -167,6 +167,7 @@ textarea {
    clear: both; margin: 0; solid black; padding: 5px 10px; font-size: 80%; 
    background: orange;
    text-align: center;
+   width: 100%;
         }
 
 
