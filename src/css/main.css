@@ -164,12 +164,17 @@ textarea {
 	}
 
 #footer{     
-   clear: both; margin: 0px; solid black; padding: 0px; font-size: 80%; 
+   clear: both; margin: 0px; solid black; padding: 0px; 
    background: orange;
-   text-align: center;
    width: 100%;
         }
 
+#footer p{
+	margin: 0px;
+	text-align: center;
+	font-size: 80%;
+
+	}
 
 #body{
 	float: center;
