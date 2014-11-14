@@ -163,15 +163,6 @@ textarea {
 
 	}
 
-#sidebar {
-
-    background:orange;
-    width:120px;
-    float:right;
-    padding:15px;
-    height: auto;
-	}
-
 #footer{     
    clear: both; margin-top: 20px; border-top:1px solid black; padding: 20px 0px;   font-size: 80%; 
    background-color: orange;
@@ -180,7 +171,7 @@ textarea {
 
 
 #body{
-	float: left;
+	float: center;
 
 	}
 #article_photo img {
