@@ -166,7 +166,7 @@ textarea {
 #footer{     
    clear: both; margin: 0px; solid black; padding: 0px; 
    background: orange;
-   
+   width: 960px
         }
 
 #footer p{
