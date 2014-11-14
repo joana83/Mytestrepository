@@ -164,7 +164,7 @@ textarea {
 	}
 
 #footer{     
-   clear: both; margin: 0; solid black; padding: 5px 10px; font-size: 80%; 
+   clear: both; margin: 0px; solid black; padding: 0px; font-size: 80%; 
    background: orange;
    text-align: center;
    width: 100%;
