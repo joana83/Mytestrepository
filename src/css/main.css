@@ -186,7 +186,8 @@ textarea {
  p.first{
    margin: 0px;
    color: white;	
-}
+   float: right;
+   }
 
 p.second{
 	color: white;
