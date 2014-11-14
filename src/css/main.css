@@ -224,17 +224,19 @@ p.third{
     line-height: 56px;
     background-color: black;
     text-align: center;
-    color: orange;
+    
 }
 
 #menu ul, li {
     margin: 0px;
+    color: orange;
    
 
 }
 
 #menu li {
    display: inline;
+   color: orange;
 
 }
 
