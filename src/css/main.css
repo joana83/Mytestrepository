@@ -142,8 +142,8 @@ textarea {
 #content {
    background-color: black;
    width: 898px;
-   padding-left: 31px;
-   padding-right: 31px;
+   padding-left: auto;
+   padding-right: auto;
    overflow: hidden;
  
  } 
@@ -159,7 +159,7 @@ textarea {
 
 	float:left;
 	background: black;
-	width: 800px;
+	width: auto;
 
 	}
 
@@ -173,7 +173,6 @@ textarea {
         }
 
 #footer p{
-	margin: 0px;
 	text-align: center;
 	font-size: 80%;
 
