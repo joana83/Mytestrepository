@@ -188,7 +188,7 @@ textarea {
  }
 
  p.first{
-   margin: 0px;
+   margin: 31px;
    color: white;	
    float: right;
    }
@@ -200,6 +200,7 @@ p.second{
 
 p.third{
 	color: white;
+	margin: 31px;
 
 	}
 
