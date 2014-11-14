@@ -142,8 +142,8 @@ textarea {
 #content {
    background-color: black;
    width: 960px;
-   padding-left: 31px;
-   padding-right: 31px;
+   padding-left: 0px;
+   padding-right: 0px;
    overflow: hidden;
  
  } 
