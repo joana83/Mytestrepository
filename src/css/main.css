@@ -90,7 +90,7 @@ textarea {
    ========================================================================== */
 #wrapper {
   width: 960px;
-  background-color: orange;
+  background-color: black;
   margin-left: auto;
   margin-right: auto;
   font-size: 20px;
@@ -135,7 +135,7 @@ textarea {
 
    }
 #branding{
-   background-color:orange;
+   background-color: black;
 
    }
 
@@ -184,7 +184,7 @@ textarea {
   float: left;
   padding: 9px;
   margin: 10px;
-
+  background: black;
  }
 
  p.first{
@@ -206,7 +206,7 @@ p.third{
 
 #article_heading h1 {
    margin: 0px;
-   color: black;
+   color: orange;
    text-align: center;
    text-decoration:none;
 }
