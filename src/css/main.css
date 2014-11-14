@@ -237,10 +237,11 @@ p.third{
 
 }
 
-#a:About{
-	color: orange;
-	text-decoration: none;
-	}
+a {
+   color: orange;
+   text-decoration: none;
+   
+   }
 
 
 
