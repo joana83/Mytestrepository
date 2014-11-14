@@ -214,6 +214,7 @@ p.third{
 #logo {
    width: 86px;
    height: 86px;
+   background:black;
 
 }
 
@@ -221,12 +222,13 @@ p.third{
 #menu {
     height: 56px;
     line-height: 56px;
-    background-color: orange;
+    background-color: black;
     text-align: center;
 }
 
 #menu ul, li {
     margin: 0px;
+    color: orange;
 
 }
 
