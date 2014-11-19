@@ -226,7 +226,7 @@ p.third{
     line-height: 56px;
     background-color: black;
     text-align: center;
-    width:  594px;
+    width:  auto;
     border: 3px solid orange;
     padding: 10px;
 }
